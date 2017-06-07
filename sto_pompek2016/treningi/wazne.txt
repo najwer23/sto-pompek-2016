@@ -1,0 +1,7 @@
+tydzien
+test (maks przedzialu)
+dzien treningu 
+przerwa miedzy seriami
+liczba seri
+
+serie
